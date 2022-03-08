@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            霜月花繁录
+longtitle:        霜月花繁录
+author:           雪中明月
+email:            lswlc33@qq.com
 description: >
-  Build Jekyll site with the GitBook style.
+  霜月花繁录  BY  雪中明月
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://www.miuifuck.tk'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
